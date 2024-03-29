@@ -1,5 +1,7 @@
 ## aliyundrive-webdav OpenWrt plugin has a command injection vulnerability
 
+Affected product:  *aliyundrive-webdav* <= 2.3.3
+
 ### Product Information
 
 project: https://github.com/messense/aliyundrive-webdav/
