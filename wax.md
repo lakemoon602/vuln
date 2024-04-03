@@ -2,6 +2,8 @@
 
 Affected product: wax <= 0.9-3
 
+Officially fixed：https://codeberg.org/waxlab/wax/issues/16
+
 ### Product Information
 
 project: https://luarocks.org/modules/arkt8/wax
